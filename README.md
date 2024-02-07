@@ -1,6 +1,6 @@
 # React + Vite
 
-Site is Live at endpoint : https://reduxtasklist.netlify.app
+# Site is Live at endpoint : https://reduxtasklist.netlify.app
 
 Welcome to Task List Redux, a project built using React, Redux, Tailwind CSS, and HTML. This project aims to provide a simple yet powerful task management solution leveraging the capabilities of Redux for state management.
 
