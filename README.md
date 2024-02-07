@@ -1,4 +1,4 @@
-# React + Vite
+# React/Redux + Vite
 
 # Site is Live at: https://reduxtasklist.netlify.app
 
