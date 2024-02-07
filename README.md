@@ -11,7 +11,7 @@ Redux State Management: Utilizes Redux for efficient state management, ensuring 
 
 Responsive Design: Designed with responsiveness in mind using Tailwind CSS, ensuring optimal user experience across devices.
 
-Tech Stack:
+# Tech Stack:
 React: JavaScript library for building user interfaces.
 Redux: State management library for JavaScript applications.
 Tailwind CSS: Utility-first CSS framework for creating custom designs quickly.
