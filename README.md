@@ -4,7 +4,7 @@ Site is Live at endpoint : https://reduxtasklist.netlify.app
 
 Welcome to Task List Redux, a project built using React, Redux, Tailwind CSS, and HTML. This project aims to provide a simple yet powerful task management solution leveraging the capabilities of Redux for state management.
 
-Features:
+#Features:
 Task Management: Create, update, delete, and mark tasks as completed.
 
 Redux State Management: Utilizes Redux for efficient state management, ensuring a single source of truth for task data.
