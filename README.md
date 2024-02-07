@@ -6,7 +6,9 @@ Welcome to Task List Redux, a project built using React, Redux, Tailwind CSS, an
 
 Features:
 Task Management: Create, update, delete, and mark tasks as completed.
+
 Redux State Management: Utilizes Redux for efficient state management, ensuring a single source of truth for task data.
+
 Responsive Design: Designed with responsiveness in mind using Tailwind CSS, ensuring optimal user experience across devices.
 
 Tech Stack:
