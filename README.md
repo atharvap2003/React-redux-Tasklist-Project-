@@ -22,6 +22,16 @@ Tailwind CSS: Utility-first CSS framework for creating custom designs quickly.
 
 HTML: Markup language for structuring web pages.
 
+# Getting Started:
+To get started with the project, follow these steps:
+
+Clone the repository to your local machine.
+Install dependencies using npm install.
+Run the development server with npm start.
+Explore and contribute to the project as you wish!
+# Contributing:
+Contributions are welcome! Whether you're fixing a bug, implementing a new feature, or improving documentation, your efforts are appreciated. Please follow the contribution guidelines outlined in the CONTRIBUTING.md file.
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
