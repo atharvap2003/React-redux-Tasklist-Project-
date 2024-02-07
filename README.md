@@ -1,6 +1,19 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site is Live at endpoint : https://reduxtasklist.netlify.app
+
+Welcome to Task List Redux, a project built using React, Redux, Tailwind CSS, and HTML. This project aims to provide a simple yet powerful task management solution leveraging the capabilities of Redux for state management.
+
+Features:
+Task Management: Create, update, delete, and mark tasks as completed.
+Redux State Management: Utilizes Redux for efficient state management, ensuring a single source of truth for task data.
+Responsive Design: Designed with responsiveness in mind using Tailwind CSS, ensuring optimal user experience across devices.
+
+Tech Stack:
+React: JavaScript library for building user interfaces.
+Redux: State management library for JavaScript applications.
+Tailwind CSS: Utility-first CSS framework for creating custom designs quickly.
+HTML: Markup language for structuring web pages.
 
 Currently, two official plugins are available:
 
