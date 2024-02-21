@@ -13,7 +13,16 @@ Redux State Management: Utilizes Redux for efficient state management, ensuring 
 
 Responsive Design: Designed with responsiveness in mind using Tailwind CSS, ensuring optimal user experience across devices.
 
+
+
+https://github.com/atharvap2003/React-redux-listProject/assets/113303234/5c0f3ba9-b81a-4ee2-9593-527d3892a892
+
+
+
 # Tech Stack:
+
+
+
 React: JavaScript library for building user interfaces.
 
 Redux: State management library for JavaScript applications.
